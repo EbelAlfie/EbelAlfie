@@ -7,6 +7,9 @@
           In my free time, I enjoy learning new programming language, solving problems, as well as learning new things outside of computer science subject, such as
           philosophy, psychology, game making, and also 3D modeling. I am currently interested in learning and developing native Android application. As of now, I am currently an intern at PT. Global Loyalty Indonesia with the position of Android Developer
 </p>
+<div align="left">
+          
+</div>
 <div align="center">
           <h3>Programming languages</h3>
           <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
