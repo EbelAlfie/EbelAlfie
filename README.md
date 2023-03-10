@@ -8,7 +8,6 @@
           philosophy, psychology, game making, and also 3D modeling. I am currently interested in learning and developing native Android application. As of now, I am currently an intern at PT. Global Loyalty Indonesia with the position of Android Developer
 </p>
 
-<img src="files/backgroundOne.gif" align="left" alt="Beach.gif">
 <div align="center">
           <h3>Programming languages</h3>
           <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -25,3 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EbelAlfie&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" align="center"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbelAlfie&layout=compact&langs_count=6&theme=nightowl&hide_border=true" align="center"/>
 </div>
+
+<p align="center">Paradise Ahead!</p>
+<img src="files/backgroundOne.gif" align="left" alt="Beach.gif">
