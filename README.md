@@ -8,7 +8,7 @@
           philosophy, psychology, game making, and also 3D modeling. I am currently interested in learning and developing native Android application. As of now, I am currently an intern at PT. Global Loyalty Indonesia with the position of Android Developer
 </p>
 <div align="left">
-          
+      <iframe src='https://gfycat.com/ifr/DampWastefulHumpbackwhale' frameborder='0' scrolling='no' allowfullscreen width='640' height='444'></iframe><p> <a href="https://gfycat.com/dampwastefulhumpbackwhale">via Gfycat</a></p>    
 </div>
 <div align="center">
           <h3>Programming languages</h3>
