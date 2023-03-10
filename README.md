@@ -10,7 +10,7 @@
 </p>
 <img src="files/backgroundOne.gif" align="left" alt="Beach.gif">
 <div align="center">
-          <h3>Programming languages</h3>
+          <h2>Programming languages</h2>
           <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
           <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
           <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -21,7 +21,7 @@
 </div>
           
 <div align="center">
-  <h1 align="center">Github Stats</h1>
+  <h2 align="center">Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=EbelAlfie&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" align="center"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbelAlfie&layout=compact&langs_count=6&theme=nightowl&hide_border=true" align="center"/>
 </div>
