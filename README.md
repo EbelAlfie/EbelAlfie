@@ -24,6 +24,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EbelAlfie&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" align="center"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbelAlfie&layout=compact&langs_count=6&theme=nightowl&hide_border=true" align="center"/>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=EbelAlfie" align="center"/>
-
