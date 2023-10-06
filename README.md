@@ -26,4 +26,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbelAlfie&layout=compact&langs_count=6&theme=nightowl&hide_border=true" align="center"/>
 </div>
 <!--<img src="https://komarev.com/ghpvc/?username=EbelAlfie" align="center"/>-->
- ![Visitor Count](https://profile-counter.glitch.me/{rismaadisty}/count.svg)
+ ![](https://komarev.com/ghpvc/?username=EbelAlfie)
+
