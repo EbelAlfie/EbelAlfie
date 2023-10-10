@@ -5,8 +5,8 @@
 <h2 align="center">About Me</h2>
 <p align="center">My name is Davis Inde Satya, I was born on August 16, 2002 and I am currently studying in Universitas Bina Nusantara majoring in computer science.
           In my free time, I enjoy learning new programming language, solving problems, as well as learning new things outside of computer science subject, such as
-          philosophy, psychology, game making, and also 3D modeling. I am currently interested in learning and developing native Android application, machine learning, internet of things, and web development. As of now, I am currently an intern at PT. Global Loyalty Indonesia with the position of Android Developer. A trivial fact about me:
-<sub>I love beach</sub>
+          philosophy, psychology, game making, and also 3D modeling. I am currently interested in learning and developing native Android application, machine learning, internet of things, and web development. As of now, I am currently an intern at PT. Global Loyalty Indonesia with the position of Android Developer. <br>A trivial fact about me:<br>
+<sub>I love beach</sub><br>
           Enjoy! 
 </p>
 <img src="files/backgroundOne.gif" align="left" alt="Beach.gif">
