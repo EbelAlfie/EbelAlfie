@@ -14,7 +14,10 @@
 <p align="right">Enjoy!</p>
 <img src="files/backgroundOne.gif" align="left" alt="Beach.gif">
 <div align="center">
-          <h2>Programming languages</h2>
+          <div align="center">
+                    <img src="files/sunset.gif" align="left">
+                    <h2>Programming languages</h2>
+          </div>
           <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
           <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
           <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
