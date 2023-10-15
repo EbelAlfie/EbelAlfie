@@ -7,10 +7,6 @@
           In my free time, I enjoy learning new programming language, solving problems, as well as learning new things outside of computer science subject, such as
           philosophy, psychology, game making, and also 3D modeling. I am currently interested in learning and developing native Android application, machine learning, internet of things, and web development. As of now, I am currently an intern at PT. Global Loyalty Indonesia with the position of Android Developer.
 </p>
-<p align="left">
-          A trivial fact about me:<br>
-          <sub>I love beach</sub><br>
-</p>
 <p align="right">Enjoy!</p>
 <img src="files/backgroundOne.gif" align="left" alt="Beach.gif">
 <div align="center">
