@@ -11,7 +11,7 @@
 <img src="files/backgroundOne.gif" align="left" alt="Beach.gif">
 <div align="center">
           <div align="center">
-                    <img src="files/sunset.gif" align="left">
+                    <img src="files/sunset.gif" align="left" alt="Beach.gif" width="45%">
                     <h2>Programming languages</h2>
           </div>
           <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
