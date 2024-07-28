@@ -3,9 +3,9 @@
 <img src="files/torch.gif" alt="torch" align="left" width="50">
 <img src="files/torch.gif" alt="torch" align="right" width="50">
 <h2 align="center">About Me</h2>
-<p align="center">My name is Davis Inde Satya, I was born on August 16, 2002 and I am currently studying in Universitas Bina Nusantara majoring in computer science.
+<p align="center">My name is not important. I usually have a dream of becoming an illustrator because I love to draw, then something whispers that I should be a singer instead. But it seems that fate has brought me to the world of code, something I started when I was in elementary school. As of now, I am a programmer. 
           In my free time, I enjoy learning new programming language, solving problems, as well as learning new things outside of computer science subject, such as
-          philosophy, psychology, game making, and also 3D modeling. I am currently interested in learning and developing native Android application, machine learning, internet of things, and web development. As of now, I am currently an intern at PT. Global Loyalty Indonesia with the position of Android Developer.
+          drawing, singing, psychology, and also 3D modeling. I am currently interested in learning and developing native Android application, internet of things, and web development. Maybe I will try machine learning next.
 </p>
 <p align="right">Enjoy!</p>
 <img src="files/backgroundOne.gif" align="left" alt="Beach.gif">
