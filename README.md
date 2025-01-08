@@ -8,6 +8,9 @@
           drawing, singing, psychology, and also 3D modeling. I am currently interested in learning and developing native Android application, internet of things, and web development. Maybe I will try machine learning next.
 </p>
 <p align="right">Enjoy!</p>
+
+[![Spoti card](https://1dcd6b126c49-12390209840656915252.ngrok-free.app/last-track)](https://1dcd6b126c49-12390209840656915252.ngrok-free.app/layout/index.html)
+
 <img src="files/backgroundOne.gif" align="left" alt="Beach.gif">
 <div align="center">
           <div align="center">
