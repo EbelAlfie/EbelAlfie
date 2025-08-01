@@ -9,7 +9,7 @@
 </p>
 <p align="right">Enjoy!</p>
 
-[![Spoti card](https://z23zhbfr-3030.asse.devtunnels.ms/last-track?)](https://z23zhbfr-5501.asse.devtunnels.ms/layout/index.html)
+[![Spoti card](https://z23zhbfr-3030.asse.devtunnels.ms/last-track?)](https://ebelalfie.github.io/Spotify-Card/dist/)
 
 <img src="files/backgroundOne.gif" align="left" alt="Beach.gif">
 <div align="center">
